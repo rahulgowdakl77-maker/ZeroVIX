@@ -71,7 +71,7 @@ Explain how to use the project here. Add screenshots or a demo link.
 
 | Name | Role | GitHub |
 |------|------|--------|
-| Member 1 | Team Lead | [@username](https://github.com/username) |
+| Member 1 | Team Lead | [@username](https://github.com/Thejassgowda) |
 | Member 2 | Frontend | [@username](https://github.com/username) |
 | Member 3 | Backend | [@username](https://github.com/username) |
 | Member 4 | Designer | [@username](https://github.com/username) |
