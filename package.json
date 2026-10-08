@@ -1,0 +1,11 @@
+{
+  "name": "learnai",
+  "private": true,
+  "scripts": {
+    "install:all": "npm --prefix backend install && npm --prefix frontend install",
+    "db:up": "docker compose up -d",
+    "seed": "npm --prefix backend run seed",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev"
+  }
+}
